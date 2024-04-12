@@ -14,7 +14,7 @@ void rev(int arr[], int size)
     printf("\n\nSum Of All Elements: %d\n", sum);
 }
 
-main()
+void main()
 {
     int size;
 
