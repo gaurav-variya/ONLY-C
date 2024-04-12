@@ -8,7 +8,7 @@ struct Book
     int price;
 };
 
-main() 
+void main() 
 {
    
     int n;
