@@ -11,7 +11,7 @@ void cube(int *arr, int size) {
     }
 }
 
-main() 
+void main() 
 {
     int size;
     
